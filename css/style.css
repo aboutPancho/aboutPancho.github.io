@@ -619,7 +619,7 @@ nav.shrink .menu-icon {
 .cv_download:hover {
   transform: scale(1.1);
   transform-origin: center;
-  color: #1a1a1a;
+  color: #444444;
 }
 .home_description h2 {
   margin-top: 80px;
